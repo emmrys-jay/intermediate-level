@@ -36,3 +36,4 @@ Push your changes to your repository and share the repository link with us via e
 
 ## Static application image
 
+<img width="1278" alt="Screenshot 2025-01-03 at 19 05 05" src="https://github.com/user-attachments/assets/a4a36497-d715-433e-bd10-b3fb5b08331e" />
